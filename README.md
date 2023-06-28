@@ -23,7 +23,7 @@
 $ git clone https://github.com/CodingMikey/InspectionReports.git
 
 # Go into the repository
-$ cd django-crud-ajax-login-register-fileupload
+$ cd DjangoDashboard
 
 # Remove current origin repository
 $ git remote remove origin
