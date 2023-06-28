@@ -20,7 +20,7 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/CodingMikey/InspectionReports.git
+$ git clone https://github.com/CodingMikey/DjangoDashboard.git
 
 # Go into the repository
 $ cd DjangoDashboard
