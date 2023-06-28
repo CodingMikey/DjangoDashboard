@@ -2,12 +2,12 @@
 
 ## Features
 
-⚡️ Register - Login - File Upload
-⚡️ CRUD Application
-⚡️ Form Validation 
+⚡️ Register - Login - File Upload\
+⚡️ CRUD Application\
+⚡️ Form Validation\
 ⚡️ Fully Responsive + DateTime Picker\
 ⚡️ Ajax CRUD Application\
-⚡️ File Upload + CSV Import + CSV Export
+⚡️ File Upload + CSV Import + CSV Export\
 
 ## How To Use 🔧
 
