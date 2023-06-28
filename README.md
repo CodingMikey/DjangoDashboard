@@ -1,5 +1,12 @@
 # Dashboard w/ Excel Export CRUD App - Django Version 4.1.5 
 
+<h2 align="center">
+  <img src="https://github.com/CodingMikey/DjangoDashboard/blob/main/screen_shots/sample.gif" alt="Django" width="600px" />
+  <br>
+</h2>
+
+
+
 ## Features
 
 ⚡️ Register - Login - File Upload\
